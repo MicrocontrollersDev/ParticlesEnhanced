@@ -9,9 +9,9 @@ import net.minecraftforge.fml.common.Mod
 import net.minecraftforge.fml.common.event.FMLInitializationEvent
 
 @Mod(
-    modid = "@ID@",
-    name = "@NAME@",
-    version = "@VER@",
+    modid = "@MOD_ID@",
+    name = "@MOD_NAME@",
+    version = "@MOD_VERSION@",
     acceptedMinecraftVersions = "[1.8.9]",
     clientSideOnly = true,
 )
